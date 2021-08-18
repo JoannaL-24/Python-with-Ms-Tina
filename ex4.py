@@ -29,5 +29,4 @@ print("We need to put about", average_passengers_per_car,
 Study Drill:
 0. the NameError means the variable 'car_pool_capacity' is not declared yet
 1. the 4.0 adds the floating point (decimal) to the result of calculations
-2. 
 '''
