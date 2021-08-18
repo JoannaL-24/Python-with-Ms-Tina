@@ -8,4 +8,4 @@ wavelength = 560 * 10**(-9)
 print("=", wavelength, "m")
 #calculate the frequency of the light
 print("the frequncy of 560 nm wavelength wave is", c/wavelength, " Hz")
-print("1/8 =", 1/8)
+print("1/8 =", 1/8.0)
