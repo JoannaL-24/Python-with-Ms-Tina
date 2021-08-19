@@ -1,18 +1,18 @@
-# variable assignment
+# variable assignment: assign 100 to cars
 cars = 100
-# variable assignment
+# variable assignment: assign 4.0 to space_in_a_car
 space_in_a_car = 4.0
-# variable assignment
+# variable assignment: assign 30 to drivers
 drivers = 30
-# variable assignment
+# variable assignment: assign 90 to passengers
 passengers = 90
-# variable assignment
+# variable assignment: assign cars - drivers to cars_not_driven
 cars_not_driven = cars - drivers
-# variable assignment
+# variable assignment: assign drivers to cars_driven
 cars_driven = drivers
-# variable assignment
+# variable assignment: assign cars_driven * space_in_a_car to carpool_capacity
 carpool_capacity = cars_driven * space_in_a_car
-# variable assignment
+# variable assignment: assign passengers / cars_driven to average_passengers_per_car
 average_passengers_per_car = passengers / cars_driven
 
 
