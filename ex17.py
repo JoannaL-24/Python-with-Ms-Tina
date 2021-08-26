@@ -1,4 +1,3 @@
-import shutil
 from sys import argv
 from os.path import exists
 from cmath import sqrt, log10
