@@ -1,15 +1,20 @@
+#play around with functions and their parameter
+#display a and b, and add them togather
 def add(a,b):
     print("ADDING %d + %d" %(a,b))
     return a+b
 
+#display a and b, and subtract b from a
 def subtract(a,b):
     print("SUBTRACTING %d - %d"%(a, b))
     return a-b
 
+#display a and b, and multiply them togather
 def multiply(a,b):
     print("MULTIPLYING %d * %d"%(a,b))
     return a*b
 
+#display a and b, and divide a by b
 def divide(a,b):
     print("DIVING %d / %d"%(a,b))
     return a/b
