@@ -1,3 +1,4 @@
+#practice with learned techniques escape characters, functions, and math
 print("Let's practive everything.")
 print("You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs.")
 
@@ -17,6 +18,7 @@ print("------------------")
 five = 10-2+3-6
 print("This should be five: %s"%five)
 
+# make jelly_beans, jars, and crates, return -1 for string parameters
 def secret_formula(started):
     if not isinstance(started,(float, int, complex)):
         print("This is not a number...")
