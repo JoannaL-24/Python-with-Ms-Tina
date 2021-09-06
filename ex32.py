@@ -1,5 +1,4 @@
 #introduce for loop and list
-#for can use in to loop list and range can be range(start, end, step), range(start, end), and range(stop)
 the_count = [1, 2, 3, 4, 5]
 fruits = ['apples ', 'organges', 'pears', 'apricots']
 change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
@@ -20,3 +19,12 @@ for i in range(0,6):
 
 for i in elements:
     print("Element was: %d"%i)
+
+"""
+Study Drill:
+1.for can use in to loop list and range can be range(start, end, step), range(start, end), and range(stop)
+2. yes
+3.We can also do insert(), extend(), remove(), and pop()
+  var-name = list[3:8] can slice a list from index 3 to 8 and store into another List called var-name
+  To access data in a list: list[index]
+"""
